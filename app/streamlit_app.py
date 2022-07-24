@@ -1,4 +1,4 @@
-#Project by Rajendrea, Date: 20-06-2022
+#Project by Rajendra, Date: 20-06-2022
 
 
 #importing required libraries
@@ -287,6 +287,6 @@ elif app_mode == "Forecast on previous sales":
     readme_text.empty()
     Forecast_previous()
     
-#elif app_mode == "About":
+elif app_mode == "About":
     #readme_text.empty()
     #st.markdown(get_file_content_as_string('about.md'))
