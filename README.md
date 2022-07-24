@@ -11,4 +11,4 @@ Note - The first module is more accurate than the second module, as the first mo
 
 ### Questions? Comments?
 
-Please ask on the [youtube channel] https://www.youtube.com/channel/UC0hVJ_zWTNOqyA5qDgj0HPQ.
+
