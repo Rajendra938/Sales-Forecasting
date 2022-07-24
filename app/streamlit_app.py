@@ -288,5 +288,5 @@ elif app_mode == "Forecast on previous sales":
     Forecast_previous()
     
 elif app_mode == "About":
-    #readme_text.empty()
-    #st.markdown(get_file_content_as_string('about.md'))
+    readme_text.empty()
+    st.markdown(get_file_content_as_string('about.md'))
